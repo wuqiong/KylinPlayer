@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+#qt
+*.pro.user
+*.pro.user*
+
+#mac os x
+.DS_Store
